@@ -44,4 +44,5 @@ Install with:
 ```bash
 pip install -r requirements.txt
 
-
+## SOURCE of housing csv data 
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
